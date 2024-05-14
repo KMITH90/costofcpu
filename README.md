@@ -21,5 +21,6 @@ Understanding CPU performance is crucial when considering the cost-effectiveness
         In conclusion, dealing with CPU overtime costs involves considering both direct expenses, like increased power use, and indirect ones, like potential hardware damage. To manage these costs, companies can look to new, more efficient CPU designs and smarter ways to distribute workloads. By investing in better technology and optimizing how they use it, they can keep their computing operations efficient and cost-effective in the long run.
 
 
+Team Member2: Ganiga M
 
 
