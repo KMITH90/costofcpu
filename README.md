@@ -15,10 +15,10 @@ Furthermore, CPU overuse may result in unintended expenses for system longevity 
 	Why Does It Go Up: It explains why CPU overtime occurs, attributing it to factors such as sudden spikes in demand for processing power, tight deadlines, and inefficient resource allocation.
 	Future Expectations: It outlines future expectations regarding advancements in CPU architecture, manufacturing processes, workload optimization algorithms, and the proliferation of edge computing and IoT devices, all of which contribute to addressing the challenges posed by CPU overtime.
 
-Understanding CPU performance is crucial when considering the cost-effectiveness of computer hardware. Websites like JCMIT(https://www.jcmit.net/cpu-performance.htm) provide comprehensive analyses of CPU performance metrics, aiding in informed purchasing decisions. By evaluating factors such as clock speed, core count, and benchmark scores, consumers can gauge the value proposition of different processors against their respective price points.
+Understanding CPU performance is crucial when considering the cost-effectiveness of computer hardware. Websites like [JCMIT](https://www.jcmit.net/cpu-performance.htm) provide comprehensive analyses of CPU performance metrics, aiding in informed purchasing decisions. By evaluating factors such as clock speed, core count, and benchmark scores, consumers can gauge the value proposition of different processors against their respective price points.
 
 ## CONCLUSION:
-               In conclusion, dealing with CPU overtime costs involves considering both direct expenses, like increased power use, and indirect ones, like potential hardware damage. To manage these costs, companies can look to new, more efficient CPU designs and smarter ways to distribute workloads. By investing in better technology and optimizing how they use it, they can keep their computing operations efficient and cost-effective in the long run.
+        In conclusion, dealing with CPU overtime costs involves considering both direct expenses, like increased power use, and indirect ones, like potential hardware damage. To manage these costs, companies can look to new, more efficient CPU designs and smarter ways to distribute workloads. By investing in better technology and optimizing how they use it, they can keep their computing operations efficient and cost-effective in the long run.
 
 
 
